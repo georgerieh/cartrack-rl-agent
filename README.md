@@ -33,4 +33,7 @@ I happy to chat if you are interested with {my_github_user_name}@gmail.com
 
 ## Videos 
 
-[![Watch the video](https://raw.githubusercontent.com/georgerieh/cartrack-rl-agent/main/thumbnail.png)](https://github.com/georgerieh/cartrack-rl-agent/main/successful_run.mp4)
+[![Watch the video](https://raw.githubusercontent.com/georgerieh/cartrack-rl-agent/main/thumbnail.png)](https://raw.githubusercontent.com/georgerieh/cartrack-rl-agent/main/successful_run.mp4)
+
+and this one is just 25 episodes before! Notice how it missed some of tiles and had to do a second round (also a bit more risky driver than the following (upper) one
+[![Watch the video](https://raw.githubusercontent.com/georgerieh/cartrack-rl-agent/main/thumbnail.png)](https://raw.githubusercontent.com/georgerieh/cartrack-rl-agent/main/a_bit_of_over_run_drive.mp4)
