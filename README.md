@@ -30,3 +30,7 @@ Especially you can see the progress section at last cell to see what is
 - If you want to learn it, I suggest to try to repack the whole section of Bigger Training to one big cell of code, without loss of code running ability. You can also try to modify different paramters to tune it (I did it too, its just I am not smart enough to commit every single time)
 
 I happy to chat if you are interested with {my_github_user_name}@gmail.com
+
+## Videos 
+
+[![Watch the video](https://raw.githubusercontent.com/georgerieh/cartrack-rl-agent/main/thumbnail.png)](https://github.com/georgerieh/cartrack-rl-agent/main/successful_run.mp4)
