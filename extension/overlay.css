@@ -1,0 +1,86 @@
+#spectral-video-overlay {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 999999;
+  background: rgba(15, 15, 15, 0.98);
+  color: #fff;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.7);
+  font-family: sans-serif;
+  text-align: center;
+  /* Making the container wider to fit larger canvases side-by-side */
+  width: 760px; 
+}
+
+#spectral-video-overlay h4 {
+  margin: 0 0 15px 0;
+  font-size: 18px;
+  letter-spacing: 0.5px;
+}
+
+#capture-frame-btn {
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 14px;
+  margin-bottom: 15px;
+  transition: background 0.2s;
+}
+#capture-frame-btn:hover { background: #0056b3; }
+
+.spectral-canvases { 
+  display: flex; 
+  gap: 20px; 
+  justify-content: center;
+}
+
+.spectral-canvases > div {
+  flex: 1;
+}
+
+.spectral-canvases small {
+  display: block;
+  font-size: 13px;
+  color: #aaa;
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+.spectral-canvases canvas { 
+  background: #000; 
+  border: 1px solid #333; 
+  width: 350px; 
+  height: 350px; 
+  border-radius: 4px;
+}
+#spectral-video-overlay {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 999999;
+  background: rgba(20, 20, 20, 0.95);
+  color: #fff;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+  font-family: sans-serif;
+  text-align: center;
+}
+#spectral-video-overlay button {
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+}
+#spectral-video-overlay button:hover { background: #0056b3; }
+.spectral-canvases { display: flex; gap: 10px; margin-top: 10px; }
+.spectral-canvases canvas { background: #000; border: 1px solid #333; width: 150px; height: 150px; }
