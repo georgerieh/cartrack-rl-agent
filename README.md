@@ -9,7 +9,14 @@ Since I have been exposed to Q value, Reward, Value and Policy Iteration, I was 
 1. Choose your favorite folder to store code
 2. Open it with Terminal
 3. `git clone https://github.com/georgerieh/cartrack-rl-agent.git`
-4. You are doing alright
+4. If you use uv, which I recommend, you can run this sequence of steps
+```
+uv init
+uv venv
+source .venv/bin/activate
+uv sync
+```
+5. You are doing alright
 
 ## How did I actually explore it
 Short Answer: I was curious and could not stop until I won.
