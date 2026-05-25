@@ -39,7 +39,7 @@ Especially you can see the progress section at last cell to see what is
 I happy to chat if you are interested with {my_github_user_name}@gmail.com
 
 ## Metrics
-Here are were metrics that I were paying attention for:
+Here are were metrics that I was paying attention for:
 - Episode: current episode
 - Step: total number of steps
 - Epsilon: current exploration rate
