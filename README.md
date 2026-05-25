@@ -38,6 +38,15 @@ Especially you can see the progress section at last cell to see what is
 
 I happy to chat if you are interested with {my_github_user_name}@gmail.com
 
+## Metrics
+Here are were metrics that I were paying attention for:
+Episode: current episode
+Step: total number of steps
+Epsilon: current exploration rate
+Reward: episode reward in past 25 episodes (changes in separated tqdm output, of course there is better way to do it)
+Loss: Same with reward
+QValue: Same with QValue
+
 ## Videos 
 
 [![Watch the video](https://raw.githubusercontent.com/georgerieh/cartrack-rl-agent/main/thumbnail.png)](https://raw.githubusercontent.com/georgerieh/cartrack-rl-agent/main/successful_run.mp4)
